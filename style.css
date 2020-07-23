@@ -193,3 +193,25 @@ input[type=number]::-webkit-inner-spin-button {
   color: #ec3636;
   font-weight: 700;
 }
+
+.footer  {
+  display: flex;
+  flex-wrap: inherit;
+  flex-direction: column;
+  flex: 1;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 1rem;
+  line-height: 1.5;
+  background-color: #343A40;
+  width: 100%;
+  padding: 1rem;
+  margin-right: auto;
+  margin-left: auto;
+  box-sizing: border-box;
+}
+
+footer a  {
+  color: #FFC107;
+  text-decoration: none;
+}
