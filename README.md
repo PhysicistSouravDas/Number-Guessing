@@ -6,7 +6,7 @@ There is a **secret target** number between 0 to 9, which is only revealed after
     Here is the preview of the Number Guessing game.
 
 To try this out, you can either download the ZIP file from [here](https://github.com/PhysicistSouravDas/Number-Guessing/archive/master.zip) and extract in your computer, or you can clone the repository in your computer (if you have git installed) by navigating to your desired directory and typing the below text on command-line/command-prompt/powershell/git-bash.
-```
+```bash
 git clone https://github.com/PhysicistSouravDas/Number-Guessing.git
 ```
 
